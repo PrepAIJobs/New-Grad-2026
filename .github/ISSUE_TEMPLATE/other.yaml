@@ -1,5 +1,5 @@
 name: Other
-description: Use this issue for any questions/suggestions or closed internships.
+description: Use this issue for any questions/suggestions or closed positions.
 title: "Issue: "
 labels: ["other"]
 body:
@@ -16,15 +16,15 @@ body:
       options:
         - 'Question'
         - 'Suggestion'
-        - 'Closed Internship'
+        - 'Closed position'
         - 'Other'
     validations:
       required: true
   - type: textarea
     id: other
     attributes:
-      label: Issue/Question/Closed Internship
-      description: Please provide a brief description of the issue, question, closed internship, or suggestion.
-      placeholder: ex. I have a question about the repo, I have a suggestion for the repo, An internship has been closed, How can I contribute to the repo?, etc.
+      label: Issue/Question/Closed position
+      description: Please provide a brief description of the issue, question, closed position, or suggestion.
+      placeholder: ex. I have a question about the repo, I have a suggestion for the repo, An position has been closed, How can I contribute to the repo?, etc.
     validations:
       required: true
