@@ -189,7 +189,7 @@ With the **PrepAI mobile app**, you can:
 | AssetMark | Associate Designer | Charlotte, North Carolina | <a href="https://assetmark.wd5.myworkdayjobs.com/en-US/AssetMark_Careers/job/Charlotte-NC/Associate-Designer_Req-003126"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 15 |
 | Meridian Link | Associate Technical Project Manager 1792 | Remote | <a href="https://jobs.lever.co/meridianlink/0509adc2-465c-4a7d-a5f6-00bc41193893"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 14 |
 | Nordstrom | Junior Site Reliability Engineer (Onsite - Seattle, WA) | Seattle, Washington | <a href="https://nordstrom.wd501.myworkdayjobs.com/en-US/nordstrom_careers/job/Seattle-WA/Junior-Site-Reliability-Engineer--Onsite---Seattle--WA-_R-756640-1"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 14 |
-| AT&T | Specialist OSP Design Engineer | Elgin, Illinois | <a href="https://att.wd1.myworkdayjobs.com/en-US/ATTGeneral/job/Elgin-Illinois/Specialist-OSP-Design-Engineer_R-69915"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 14 |
+| AT&T | Specialist OSP Design Engineer | Elgin, Illinois | 🔒 | Jun 14 |
 | Ribbon Communications | Engineering Intern | Plano, Texas | 🔒 | Jun 14 |
 | Vallen | Data & Analytics Analyst I | East Hartford, Connecticut | 🔒 | Jun 14 |
 | APS | IT Solutions Engineer / Analyst I  \|  Data Platform & Delivery | Phoenix, Arizona | 🔒 | Jun 14 |
