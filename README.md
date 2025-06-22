@@ -54,7 +54,7 @@ With the **PrepAI mobile app**, you can:
 
 
 | 🏢 Company | 💼 Role | 📍 Location | 🔗 Apply | 🗓️ Posted |
-|-----------|---------|-------------|-------------|------------|
+|-----------|--------|-------------|-------------|------------|
 | Abbott | Systems Engineer I | Pleasanton, California | [🔗 Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States---California---Pleasanton/Systems-Engineer-I_31121446) | Jun 22 |
 | CoStar Group | Software Engineer | Arlington, Virginia | [🔗 Apply](https://costar.wd1.myworkdayjobs.com/en-US/CoStarCareers/job/US-VA-Arlington/Software-Engineer_R36466) | Jun 22 |
 | Texas Instruments | Software Engineering Intern | Remote | [🔗 Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/25002040) | Jun 22 |
