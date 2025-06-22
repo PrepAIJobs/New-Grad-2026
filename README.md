@@ -55,6 +55,16 @@ With the **PrepAI mobile app**, you can:
 
 | 🏢 Company | 💼 Role | 📍 Location | 🔗 Apply | 🗓️ Posted |
 |:----------|:--------|:-----------|:---------:|:----------:|
+| Autodesk | Intern, Frontend Software Engineer, Fall 2025 | Toronto, Ontario | <a href="https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Toronto-ON-CAN/Intern--Frontend-Software-Engineer_24WD82753"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 22 |
+| Cadence | C++ Software Engineer, New College Grad (Burlington, MA / Greater Boston) | Burlington, Vermont | <a href="https://cadence.wd1.myworkdayjobs.com/en-US/Univ_Careers/job/Burlington-MA/C---Software-Engineer--New-College-Grad--Burlington--MA---Greater-Boston-_R50467"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 22 |
+| TOPPAN Packaging Americas | ITIO - Infrastructure (Client Services, Network, Servers) - Emerging Leader (ELP) | Charlotte, North Carolina | <a href="https://sonoco.wd1.myworkdayjobs.com/en-US/TOPPAN-Packaging/job/Charlotte-NC-USA/ITIO---Infrastructure--Client-Services--Network--Servers----Emerging-Leader--ELP-_JR-144458"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 22 |
+| Flexcompute | Evergreen Rising Stars in Scientific Computing | Boston, Massachusetts | <a href="https://apply.workable.com/j/75BA5AB5DC/apply"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 22 |
+| VIAVI Solutions | Finance Intern | San Jose, California | <a href="https://viavisolutions.wd1.myworkdayjobs.com/en-US/careers/job/San-Jose-CA-USA/Finance-Intern_250003659-1"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 22 |
+| Finning | Data Analyst - Intern | Edmonton, Alberta | <a href="https://finning.wd3.myworkdayjobs.com/en-US/External/job/Edmonton-AB-CA/Data-Analyst---Intern_R-2025-2480"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 22 |
+| Oracle | Technical Analyst 1-Support | Remote | <a href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/286825"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 22 |
+| Fortinet | Inside Sales Representative | Frisco, Texas | <a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/20018"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 22 |
+| Fortinet | Inside Sales Representative | Frisco, Texas | <a href="https://edel.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/20019"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 22 |
+| ManTech | Junior Cloud Information System Security Officer | Washington, District of Columbia | <a href="https://mantech.avature.net/en_US/careers/JobDetail/Junior-Cloud-Information-System-Security-Officer/38355"><img src="https://github.com/prepai-dev/summer2026-internships/blob/main/assets/apply.png?raw=true" alt="Apply" width="200" height="80"></a> | Jun 22 |
 | Autodesk | Intern, Frontend Software Engineer, Fall 2025 | Toronto, Ontario | [🔗 Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/uni/job/Toronto-ON-CAN/Intern--Frontend-Software-Engineer_24WD82753) | Jun 22 |
 | Cadence | C++ Software Engineer, New College Grad (Burlington, MA / Greater Boston) | Burlington, Vermont | [🔗 Apply](https://cadence.wd1.myworkdayjobs.com/en-US/Univ_Careers/job/Burlington-MA/C---Software-Engineer--New-College-Grad--Burlington--MA---Greater-Boston-_R50467) | Jun 22 |
 | Abbott | Systems Engineer I | Pleasanton, California | [🔗 Apply](https://abbott.wd5.myworkdayjobs.com/en-US/abbottcareers2/job/United-States---California---Pleasanton/Systems-Engineer-I_31121446) | Jun 22 |
@@ -545,90 +555,3 @@ With the **PrepAI mobile app**, you can:
 | LAWPRO | Junior Software Developer | Toronto, Ontario | [🔗 Apply](https://recruiting.ultipro.ca/LAW5001LWPI/JobBoard/84e1940f-f9f4-40f1-bd6d-61ad9e19b217/OpportunityDetail?opportunityId=864dbe0d-a561-452f-8caa-78a5a66f7d7d) | Apr 10 |
 | NBCUniversal | Freelance Systems Engineer - NBC Sports Bay Area & California | San Francisco, California | [🔗 Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000052984737-freelance-systems-engineer-nbc-sports-bay-area-california) | Apr 10 |
 | HORNE | Assurance Associate, PMM | Baton Rouge, Louisiana | [🔗 Apply](https://recruiting2.ultipro.com/HOR1014HORNE/JobBoard/737dc16e-0ddb-4580-be70-5bddeea458ea/OpportunityDetail?opportunityId=b6513ac5-f16f-4c4b-9ce9-224c8c944fc5) | Apr 9 |
-| Goldman Sachs | Global Markets, Listed Clearing Engineering, Software Developer, Analyst, SLC | Salt Lake City, Utah | [🔗 Apply](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/145607) | Apr 8 |
-| Goldman Sachs | Global Markets, Mortgages Flow Technology, Software Engineer, Analyst, NYC | New York City, New York | [🔗 Apply](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/145836) | Apr 5 |
-| Stripe | Security Infrastructure Engineer, Internal Identity | Remote | [🔗 Apply](https://stripe.com/jobs/search?gh_jid=6774385) | Apr 5 |
-| SpaceX | Quality Systems Engineer | Hawthorne, California | [🔗 Apply](https://boards.greenhouse.io/spacex/jobs/7940796002?gh_jid=7940796002) | Apr 3 |
-| StackAdapt | Software Engineer -  Inventory | Remote | [🔗 Apply](https://jobs.lever.co/stackadapt/e4651ee7-5c5a-4713-9301-6e9f3c3a04f6) | Apr 2 |
-| mthree | Développeur Logiciel (Java/C++/commerce Algorithmique)/ Software Developer (Java/C++/Algorithmic Trading) – Canada (Montreal) | Montréal, Quebec | [🔗 Apply](https://mthree.com/careers/job/?gh_jid=4400793006) | Apr 2 |
-| JD.com Inc | JDL - ERP Software Engineer | Fontana, California | [🔗 Apply](https://job-boards.greenhouse.io/jdcom/jobs/7938984002) | Apr 2 |
-| Arista Networks | Software Engineer (Hardware Tools and Infrastructure) | Santa Clara, California | [🔗 Apply](https://jobs.smartrecruiters.com/AristaNetworks/744000050989547-software-engineer-hardware-tools-and-infrastructure-) | Apr 1 |
-| Visa | Senior Product Manager, Innovation & Design | New York City, New York | [🔗 Apply](https://jobs.smartrecruiters.com/Visa/744000051044465-senior-product-manager-innovation-design) | Apr 1 |
-| Aurora Innovation | ML Software Engineer, Behavior Planning | Pittsburgh, Pennsylvania | [🔗 Apply](https://aurora.tech/jobs/7810554002?gh_jid=7810554002) | Apr 1 |
-| Canadian Bank Note Company | Senior Software Developer - International Service Delivery | Ottawa, Ontario | [🔗 Apply](https://jobs.smartrecruiters.com/CanadianBankNoteCompany/744000050600711-senior-software-developer-international-service-delivery) | Mar 29 |
-| Lambda | IT Systems Engineer - Internal Tools | San Francisco, California | [🔗 Apply](https://jobs.ashbyhq.com/lambda/f8108b7e-3d06-43c1-b1ca-f33023ac9d7d) | Mar 29 |
-| Point72 | Quantitative Analyst - CIO Office | New York City, New York | [🔗 Apply](https://boards.greenhouse.io/point72/jobs/7297616002?gh_jid=7297616002) | Mar 28 |
-| ByteDance | Software Engineer Large Model System Graduate (Machine Learning Sys-US) - 2024 Start (BS/MS) | Seattle, Washington | [🔗 Apply](https://jobs.bytedance.com/en/position/7265561065802582328/detail) | Mar 27 |
-| ByteDance | Software Engineer in Machine Learning Systems Graduate (AML - Machine Learning Systems) - 2024 Start (BS/MS) | San Jose, California | [🔗 Apply](https://jobs.bytedance.com/en/position/7265106982942607675/detail) | Mar 27 |
-| ByteDance | Software Engineer in Machine Learning Systems Graduate (AML - Machine Learning Systems) - 2024 Start (BS/MS) | Seattle, Washington | [🔗 Apply](https://jobs.bytedance.com/en/position/7265103179065739575/detail) | Mar 27 |
-| ADGA Group Consultants Inc | Junior Software Developer (HRMS applications) | Ottawa, Ontario | [🔗 Apply](https://jobs.smartrecruiters.com/ADGAGroupConsultantsInc1/744000049889415-junior-software-developer-hrms-applications-) | Mar 26 |
-| Neuralink | Software Engineer, Data Engineering | Fremont, California | [🔗 Apply](https://boards.greenhouse.io/neuralink/jobs/6521553003?gh_jid=6521553003) | Mar 26 |
-| Neuralink | Software Engineer, Data Engineering | Austin, Texas | [🔗 Apply](https://boards.greenhouse.io/neuralink/jobs/6521543003?gh_jid=6521543003) | Mar 26 |
-| Neuralink | Software Engineer, Lab Systems | Austin, Texas | [🔗 Apply](https://boards.greenhouse.io/neuralink/jobs/6521585003?gh_jid=6521585003) | Mar 26 |
-| Nuro, Inc. | Software Engineer, AI Platform - New Grad | Mountain View, California | [🔗 Apply](https://nuro.ai/careersitem?gh_jid=6447851) | Mar 26 |
-| Interactive Brokers | Software Engineer, UI | New York City, New York | [🔗 Apply](https://job-boards.greenhouse.io/ibkr/jobs/7267515002) | Mar 25 |
-| Interactive Brokers | Software Engineer, UI | Greenwich, Connecticut | [🔗 Apply](https://job-boards.greenhouse.io/ibkr/jobs/7267451002) | Mar 25 |
-| ByteDance | Backend Software Engineer Graduate (Global E-commerce-US) - 2025 Start (BS/MS) | Seattle, Washington | [🔗 Apply](https://jobs.bytedance.com/en/position/7396818688756451622/detail) | Mar 24 |
-| ByteDance | Frontend Software Engineer Graduate (Global E-commerce-US) - 2025 Start (BS/MS) | Seattle, Washington | [🔗 Apply](https://jobs.bytedance.com/en/position/7396821576484555046/detail) | Mar 24 |
-| ByteDance | Frontend Software Engineer Graduate (Global E-commerce-US) - 2025 Start (BS/MS) | San Jose, California | [🔗 Apply](https://jobs.bytedance.com/en/position/7396823024265316635/detail) | Mar 24 |
-| ByteDance | Backend Software Engineer Graduate (Global E-commerce -US) - 2025 Start (BS/MS) | San Jose, California | [🔗 Apply](https://jobs.bytedance.com/en/position/7396812738201061669/detail) | Mar 24 |
-| Goldman Sachs | Global Markets, FICC Post Execution Automation, Software Engineer, Analyst, Dallas, TX | Salt Lake City, Utah | [🔗 Apply](https://hdpc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/jobsearch/job/144771) | Mar 21 |
-| Amentum | Software Developer - Junior | Washington, District of Columbia | [🔗 Apply](https://jacobs.taleo.net/careersection/ex/jobdetail.ftl?job=CIS0003HA) | Mar 20 |
-| Apogee Integration LLC | Jr Space Systems Engineer/Integrator | Chantilly, Virginia | [🔗 Apply](https://phe.tbe.taleo.net/phe02/ats/careers/requisition.jsp?org=APOGEEINTEGRATION&cws=37&rid=1624) | Mar 19 |
-| Visa | Software Engineer | Bellevue, Washington | [🔗 Apply](https://jobs.smartrecruiters.com/Visa/744000048641052-software-engineer) | Mar 19 |
-<h1>🌟 2026 New Grad Tech Positions by <strong>PrepAI</strong></h1>
-
-
-Welcome! This open-source repository is curated and maintained by **PrepAI** to help students discover the best new grad postions in the following roles:
-
-- 💻 Software Engineering  
-- 📊 Product Management  
-- 📈 Quant & Data  
-- ⚙️ Other top tech domains
-
-🌎 **Eligible locations:** United States, Canada, and Remote  
-🤝 Inspired by the incredible work of **Pitt CSC**, **Vansh & Ouckah**, and **Simplify**  
-📬 📬 Got a job to add? [**Submit an issue**](https://github.com/prepai-dev/New-Grad-2026/issues) and check out our [**contribution guidelines**](./CONTRIBUTING.md)!
-
----
-
-## 🚀 Tired of Job Portals? Let <strong>PrepAI</strong> Apply *for* You
-
-> Applying should be easy. That’s why we built **PrepAI** — the fastest way to find and apply to jobs that actually fit you.
-
-With the **PrepAI mobile app**, you can:
-
-- ✅ **Swipe right** to instantly apply to curated jobs  
-- ⚡ **Auto-fill** your details — no more repetition  
-- 🎯 Discover roles matched to your **skills**, **goals**, and **timeline**
-
-> 🧠 Built by engineers who’ve been in your shoes.
-
----
-
-## 📲 Get the App and Start Applying Instantly
-
-<p align="center">
-  <a href="https://apps.apple.com/us/app/prep-ai-crush-your-interview/id6740011494" target="_blank">
-    <img src="https://developer.apple.com/assets/elements/badges/download-on-the-app-store.svg" alt="Download on the App Store" height="55" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://play.google.com/store/apps/details?id=ai.magnifex.prepai&hl=en" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg" alt="Get it on Google Play" height="55" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://qxkswyqmsisjdtmywnow.supabase.co/storage/v1/object/public/assets//PrepAILogo.png" alt="PrepAI Full Logo" height="80" />
-</p>
-
-<p align="center">
-  <strong>✨ Your internship search just got smarter — thanks to PrepAI.</strong>  
-  <br><br>
-  ⬇️ **Scroll down to explore and apply to open roles below!** ⬇️
-</p>
-
-
-| 🏢 Company | 💼 Role | 📍 Location | 🔗 Apply | 🗓️ Posted |
