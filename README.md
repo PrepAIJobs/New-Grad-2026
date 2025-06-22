@@ -1,7 +1,7 @@
 <h1>🌟 2026 New Grad Tech Positions by <strong>PrepAI</strong></h1>
 
 
-Welcome! This open-source repository is curated and maintained by **PrepAI** to help students discover the best new graduate postions in the following roles:
+Welcome! This open-source repository is curated and maintained by **PrepAI** to help students discover the best new grad postions in the following roles:
 
 - 💻 Software Engineering  
 - 📊 Product Management  
